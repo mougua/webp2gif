@@ -1,0 +1,2 @@
+# webp2gif
+用来将Telegram的webp格式的stickers转为微信表情
